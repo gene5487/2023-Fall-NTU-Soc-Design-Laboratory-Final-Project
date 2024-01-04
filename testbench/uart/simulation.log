@@ -1,0 +1,13 @@
+Reading uart.hex
+uart.hex loaded into memory
+Memory 5 bytes = 0x6f 0x00 0x00 0x0b 0x13
+VCD info: dumpfile uart.vcd opened for output.
+LA Test 1 started
+FIR	 start @ clock count:     129011
+FIR	 end   @ clock count:     130928, cycle cost:       1917
+MM	 start @ clock count:     136743
+MM	 end   @ clock count:     137252, cycle cost:        509
+Qsort	 start @ clock count:     140782
+Qsort	 end   @ clock count:     141011, cycle cost:        229
+Firmware total cycle cost (from FIR start to Qsort end):      12000
+LA Test 1 passed

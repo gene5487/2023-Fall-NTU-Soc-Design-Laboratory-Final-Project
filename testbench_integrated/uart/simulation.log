@@ -1,0 +1,8 @@
+Reading uart.hex
+uart.hex loaded into memory
+Memory 5 bytes = 0x6f 0x00 0x00 0x0b 0x13
+VCD info: dumpfile uart.vcd opened for output.
+LA Test 1 started
+Integrated App start @ clock count:      51264
+Integrated App end   @ clock count:      72811, total cycle cost:      21547
+LA Test 1 passed
